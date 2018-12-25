@@ -1,0 +1,84 @@
+﻿<Window
+    x:Class="超高频会议签到.test2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="test2"
+    Width="567"
+    Height="347">
+    <Grid>
+        <Button
+            x:Name="bu1"
+            Width="111"
+            Height="36"
+            Margin="21,22,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Button_Click"
+            Content="连接" />
+        <RichTextBox
+            x:Name="listinfo"
+            Width="309"
+            Height="224"
+            Margin="21,68,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top">
+            <FlowDocument />
+        </RichTextBox>
+        <Button
+            x:Name="bu2"
+            Width="74"
+            Height="36"
+            Margin="159,22,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="bu2_Click"
+            Content="开始读"
+            RenderTransformOrigin="1.892,0.611" />
+        <Button
+            x:Name="bu3"
+            Width="74"
+            Height="36"
+            Margin="256,22,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="bu3_Click"
+            Content="停止读"
+            RenderTransformOrigin="1.892,0.611" />
+        <Button
+            x:Name="bu1_opsre"
+            Width="83"
+            Height="25"
+            Margin="456,68,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="bu1_opsre_Click"
+            Content="打开 " />
+        <TextBlock
+            Width="59"
+            Height="24"
+            Margin="345,32,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="服务器IP"
+            TextWrapping="Wrap" />
+        <TextBox
+            x:Name="txt_sreip"
+            Width="83"
+            Height="19"
+            Margin="409,31,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="192.168.21.112"
+            TextWrapping="Wrap" />
+        <TextBox
+            x:Name="txt_port"
+            Width="42"
+            Height="19"
+            Margin="497,31,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text="6000"
+            TextWrapping="Wrap" />
+
+    </Grid>
+</Window>

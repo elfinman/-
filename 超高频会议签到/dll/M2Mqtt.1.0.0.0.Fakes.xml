@@ -1,0 +1,2600 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>M2Mqtt.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttClientException 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.#ctor(uPLibrary.Networking.M2Mqtt.Exceptions.MqttClientException)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>将接口的成员绑定到此填充码。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.ConstructorMqttClientErrorCode">
+            <summary>设置 MqttClientException.MqttClientException(MqttClientErrorCode errorCode) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.ErrorCodeGet">
+            <summary>设置 MqttClientException.get_ErrorCode() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.ErrorCodeSetMqttClientErrorCode">
+            <summary>设置 MqttClientException.set_ErrorCode(MqttClientErrorCode value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.AllInstances.ErrorCodeGet">
+            <summary>设置 MqttClientException.get_ErrorCode() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttClientException.AllInstances.ErrorCodeSetMqttClientErrorCode">
+            <summary>设置 MqttClientException.set_ErrorCode(MqttClientErrorCode value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttCommunicationException 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.#ctor(uPLibrary.Networking.M2Mqtt.Exceptions.MqttCommunicationException)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>将接口的成员绑定到此填充码。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.Constructor">
+            <summary>设置 MqttCommunicationException.MqttCommunicationException() 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttCommunicationException.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttConnectionException 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.#ctor(uPLibrary.Networking.M2Mqtt.Exceptions.MqttConnectionException)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>将接口的成员绑定到此填充码。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.ConstructorStringException">
+            <summary>设置 MqttConnectionException.MqttConnectionException(String message, Exception innerException) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttConnectionException.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttTimeoutException 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.#ctor(uPLibrary.Networking.M2Mqtt.Exceptions.MqttTimeoutException)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.Bind(System.Runtime.Serialization.ISerializable)">
+            <summary>将接口的成员绑定到此填充码。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.Constructor">
+            <summary>设置 MqttTimeoutException.MqttTimeoutException() 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.ShimMqttTimeoutException.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttClientException 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.#ctor(uPLibrary.Networking.M2Mqtt.Exceptions.MqttClientErrorCode)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.AttachBackingFieldToHelpLink">
+            <summary>附加委托以将 StubMqttClientException.HelpLink 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.AttachBackingFieldToSource">
+            <summary>附加委托以将 StubMqttClientException.Source 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.DataGet">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.GetBaseException">
+            <summary>设置 Exception.GetBaseException() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.GetBaseException01">
+            <summary>设置 Exception.GetBaseException() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.HelpLinkGet">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.HelpLinkSetString">
+            <summary>设置 Exception.set_HelpLink(String value) 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.InitializeStub">
+            <summary>初始化 type StubMqttClientException 的新实例</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.MessageGet">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.SourceGet">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.SourceSetString">
+            <summary>设置 Exception.set_Source(String value) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.StackTraceGet">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.ToString">
+            <summary>设置 Exception.ToString() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.ToString01">
+            <summary>设置 Exception.ToString() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.Data">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.HelpLink">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.Message">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.Source">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttClientException.StackTrace">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttCommunicationException 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.AttachBackingFieldToHelpLink">
+            <summary>附加委托以将 StubMqttCommunicationException.HelpLink 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.AttachBackingFieldToSource">
+            <summary>附加委托以将 StubMqttCommunicationException.Source 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.DataGet">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.GetBaseException">
+            <summary>设置 Exception.GetBaseException() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.GetBaseException01">
+            <summary>设置 Exception.GetBaseException() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.HelpLinkGet">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.HelpLinkSetString">
+            <summary>设置 Exception.set_HelpLink(String value) 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.InitializeStub">
+            <summary>初始化 type StubMqttCommunicationException 的新实例</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.MessageGet">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.SourceGet">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.SourceSetString">
+            <summary>设置 Exception.set_Source(String value) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.StackTraceGet">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.ToString">
+            <summary>设置 Exception.ToString() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.ToString01">
+            <summary>设置 Exception.ToString() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.Data">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.HelpLink">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.Message">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.Source">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttCommunicationException.StackTrace">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttConnectionException 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.#ctor(System.String,System.Exception)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.AttachBackingFieldToHelpLink">
+            <summary>附加委托以将 StubMqttConnectionException.HelpLink 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.AttachBackingFieldToSource">
+            <summary>附加委托以将 StubMqttConnectionException.Source 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.DataGet">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.GetBaseException">
+            <summary>设置 Exception.GetBaseException() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.GetBaseException01">
+            <summary>设置 Exception.GetBaseException() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.HelpLinkGet">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.HelpLinkSetString">
+            <summary>设置 Exception.set_HelpLink(String value) 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.InitializeStub">
+            <summary>初始化 type StubMqttConnectionException 的新实例</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.MessageGet">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.SourceGet">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.SourceSetString">
+            <summary>设置 Exception.set_Source(String value) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.StackTraceGet">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.ToString">
+            <summary>设置 Exception.ToString() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.ToString01">
+            <summary>设置 Exception.ToString() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.Data">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.HelpLink">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.Message">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.Source">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttConnectionException.StackTrace">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException">
+            <summary>uPLibrary.Networking.M2Mqtt.Exceptions.MqttTimeoutException 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.AttachBackingFieldToHelpLink">
+            <summary>附加委托以将 StubMqttTimeoutException.HelpLink 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.AttachBackingFieldToSource">
+            <summary>附加委托以将 StubMqttTimeoutException.Source 作为具有支持字段的属性进行模拟。</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.DataGet">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.GetBaseException">
+            <summary>设置 Exception.GetBaseException() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.GetBaseException01">
+            <summary>设置 Exception.GetBaseException() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.GetObjectDataSerializationInfoStreamingContext">
+            <summary>设置 Exception.GetObjectData(SerializationInfo info, StreamingContext context) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.HelpLinkGet">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.HelpLinkSetString">
+            <summary>设置 Exception.set_HelpLink(String value) 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.InitializeStub">
+            <summary>初始化 type StubMqttTimeoutException 的新实例</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.MessageGet">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.SourceGet">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.SourceSetString">
+            <summary>设置 Exception.set_Source(String value) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.StackTraceGet">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.ToString">
+            <summary>设置 Exception.ToString() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.ToString01">
+            <summary>设置 Exception.ToString() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.Data">
+            <summary>设置 Exception.get_Data() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.HelpLink">
+            <summary>设置 Exception.get_HelpLink() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.Message">
+            <summary>设置 Exception.get_Message() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.Source">
+            <summary>设置 Exception.get_Source() 的 stub</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Exceptions.Fakes.StubMqttTimeoutException.StackTrace">
+            <summary>设置 Exception.get_StackTrace() 的 stub</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimIPAddressUtility">
+            <summary>uPLibrary.Networking.M2Mqtt.IPAddressUtility 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimIPAddressUtility.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimIPAddressUtility.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimIPAddressUtility.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimIPAddressUtility.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimIPAddressUtility.GetAddressFamilyIPAddress">
+            <summary>设置 IPAddressUtility.GetAddressFamily(IPAddress ipAddress) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient">
+            <summary>uPLibrary.Networking.M2Mqtt.MqttClient 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.#ctor(uPLibrary.Networking.M2Mqtt.MqttClient)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.Close">
+            <summary>设置 MqttClient.Close() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ConnectString">
+            <summary>设置 MqttClient.Connect(String clientId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ConnectStringStringStringBooleanByteBooleanStringStringBooleanUInt16">
+            <summary>设置 MqttClient.Connect(String clientId, String username, String password, Boolean willRetain, Byte willQosLevel, Boolean willFlag, String willTopic, String willMessage, Boolean cleanSession, UInt16 keepAlivePeriod) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ConstructorIPAddress">
+            <summary>设置 MqttClient.MqttClient(IPAddress brokerIpAddress) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ConstructorIPAddressInt32BooleanX509Certificate">
+            <summary>设置 MqttClient.MqttClient(IPAddress brokerIpAddress, Int32 brokerPort, Boolean secure, X509Certificate caCert) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ConstructorString">
+            <summary>设置 MqttClient.MqttClient(String brokerHostName) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ConstructorStringInt32BooleanX509Certificate">
+            <summary>设置 MqttClient.MqttClient(String brokerHostName, Int32 brokerPort, Boolean secure, X509Certificate caCert) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.Disconnect">
+            <summary>设置 MqttClient.Disconnect() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.EnqueueInflightMqttMsgBaseMqttMsgFlow">
+            <summary>设置 MqttClient.EnqueueInflight(MqttMsgBase msg, MqttMsgFlow flow) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.EnqueueInternalMqttMsgBase">
+            <summary>设置 MqttClient.EnqueueInternal(MqttMsgBase msg) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.GetMessageId">
+            <summary>设置 MqttClient.GetMessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.InitStringIPAddressInt32BooleanX509Certificate">
+            <summary>设置 MqttClient.Init(String brokerHostName, IPAddress brokerIpAddress, Int32 brokerPort, Boolean secure, X509Certificate caCert) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.IsConnectedGet">
+            <summary>设置 MqttClient.get_IsConnected() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.IsConnectedSetBoolean">
+            <summary>设置 MqttClient.set_IsConnected(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.KeepAliveThread">
+            <summary>设置 MqttClient.KeepAliveThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgPublishReceivedAddMqttClientMqttMsgPublishEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgPublishReceived(MqttMsgPublishEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgPublishReceivedRemoveMqttClientMqttMsgPublishEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgPublishReceived(MqttMsgPublishEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgPublishedAddMqttClientMqttMsgPublishedEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgPublished(MqttMsgPublishedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgPublishedRemoveMqttClientMqttMsgPublishedEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgPublished(MqttMsgPublishedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgSubscribedAddMqttClientMqttMsgSubscribedEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgSubscribed(MqttMsgSubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgSubscribedRemoveMqttClientMqttMsgSubscribedEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgSubscribed(MqttMsgSubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgUnsubscribedAddMqttClientMqttMsgUnsubscribedEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgUnsubscribed(MqttMsgUnsubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.MqttMsgUnsubscribedRemoveMqttClientMqttMsgUnsubscribedEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgUnsubscribed(MqttMsgUnsubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.OnMqttMsgPublishReceivedMqttMsgPublish">
+            <summary>设置 MqttClient.OnMqttMsgPublishReceived(MqttMsgPublish publish) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.OnMqttMsgPublishedUInt16">
+            <summary>设置 MqttClient.OnMqttMsgPublished(UInt16 messageId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.OnMqttMsgReceivedMqttMsgBase">
+            <summary>设置 MqttClient.OnMqttMsgReceived(MqttMsgBase msg) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.OnMqttMsgSubscribedMqttMsgSuback">
+            <summary>设置 MqttClient.OnMqttMsgSubscribed(MqttMsgSuback suback) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.OnMqttMsgUnsubscribedUInt16">
+            <summary>设置 MqttClient.OnMqttMsgUnsubscribed(UInt16 messageId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.Ping">
+            <summary>设置 MqttClient.Ping() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ProcessInflightThread">
+            <summary>设置 MqttClient.ProcessInflightThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.PublishStringByteArray">
+            <summary>设置 MqttClient.Publish(String topic, Byte[] message) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.PublishStringByteArrayByteBoolean">
+            <summary>设置 MqttClient.Publish(String topic, Byte[] message, Byte qosLevel, Boolean retain) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ReceiveEventThread">
+            <summary>设置 MqttClient.ReceiveEventThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.ReceiveThread">
+            <summary>设置 MqttClient.ReceiveThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.SendByteArray">
+            <summary>设置 MqttClient.Send(Byte[] msgBytes) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.SendReceiveByteArray">
+            <summary>设置 MqttClient.SendReceive(Byte[] msgBytes) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.SendReceiveByteArrayInt32">
+            <summary>设置 MqttClient.SendReceive(Byte[] msgBytes, Int32 timeout) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.SubscribeStringArrayByteArray">
+            <summary>设置 MqttClient.Subscribe(String[] topics, Byte[] qosLevels) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.UnsubscribeStringArray">
+            <summary>设置 MqttClient.Unsubscribe(String[] topics) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.Close">
+            <summary>设置 MqttClient.Close() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.ConnectString">
+            <summary>设置 MqttClient.Connect(String clientId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.ConnectStringStringStringBooleanByteBooleanStringStringBooleanUInt16">
+            <summary>设置 MqttClient.Connect(String clientId, String username, String password, Boolean willRetain, Byte willQosLevel, Boolean willFlag, String willTopic, String willMessage, Boolean cleanSession, UInt16 keepAlivePeriod) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.Disconnect">
+            <summary>设置 MqttClient.Disconnect() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.EnqueueInflightMqttMsgBaseMqttMsgFlow">
+            <summary>设置 MqttClient.EnqueueInflight(MqttMsgBase msg, MqttMsgFlow flow) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.EnqueueInternalMqttMsgBase">
+            <summary>设置 MqttClient.EnqueueInternal(MqttMsgBase msg) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.GetMessageId">
+            <summary>设置 MqttClient.GetMessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.InitStringIPAddressInt32BooleanX509Certificate">
+            <summary>设置 MqttClient.Init(String brokerHostName, IPAddress brokerIpAddress, Int32 brokerPort, Boolean secure, X509Certificate caCert) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.IsConnectedGet">
+            <summary>设置 MqttClient.get_IsConnected() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.IsConnectedSetBoolean">
+            <summary>设置 MqttClient.set_IsConnected(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.KeepAliveThread">
+            <summary>设置 MqttClient.KeepAliveThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgPublishReceivedAddMqttClientMqttMsgPublishEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgPublishReceived(MqttMsgPublishEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgPublishReceivedRemoveMqttClientMqttMsgPublishEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgPublishReceived(MqttMsgPublishEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgPublishedAddMqttClientMqttMsgPublishedEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgPublished(MqttMsgPublishedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgPublishedRemoveMqttClientMqttMsgPublishedEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgPublished(MqttMsgPublishedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgSubscribedAddMqttClientMqttMsgSubscribedEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgSubscribed(MqttMsgSubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgSubscribedRemoveMqttClientMqttMsgSubscribedEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgSubscribed(MqttMsgSubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgUnsubscribedAddMqttClientMqttMsgUnsubscribedEventHandler">
+            <summary>设置 MqttClient.add_MqttMsgUnsubscribed(MqttMsgUnsubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.MqttMsgUnsubscribedRemoveMqttClientMqttMsgUnsubscribedEventHandler">
+            <summary>设置 MqttClient.remove_MqttMsgUnsubscribed(MqttMsgUnsubscribedEventHandler value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.OnMqttMsgPublishReceivedMqttMsgPublish">
+            <summary>设置 MqttClient.OnMqttMsgPublishReceived(MqttMsgPublish publish) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.OnMqttMsgPublishedUInt16">
+            <summary>设置 MqttClient.OnMqttMsgPublished(UInt16 messageId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.OnMqttMsgReceivedMqttMsgBase">
+            <summary>设置 MqttClient.OnMqttMsgReceived(MqttMsgBase msg) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.OnMqttMsgSubscribedMqttMsgSuback">
+            <summary>设置 MqttClient.OnMqttMsgSubscribed(MqttMsgSuback suback) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.OnMqttMsgUnsubscribedUInt16">
+            <summary>设置 MqttClient.OnMqttMsgUnsubscribed(UInt16 messageId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.Ping">
+            <summary>设置 MqttClient.Ping() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.ProcessInflightThread">
+            <summary>设置 MqttClient.ProcessInflightThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.PublishStringByteArray">
+            <summary>设置 MqttClient.Publish(String topic, Byte[] message) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.PublishStringByteArrayByteBoolean">
+            <summary>设置 MqttClient.Publish(String topic, Byte[] message, Byte qosLevel, Boolean retain) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.ReceiveEventThread">
+            <summary>设置 MqttClient.ReceiveEventThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.ReceiveThread">
+            <summary>设置 MqttClient.ReceiveThread() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.SendByteArray">
+            <summary>设置 MqttClient.Send(Byte[] msgBytes) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.SendReceiveByteArray">
+            <summary>设置 MqttClient.SendReceive(Byte[] msgBytes) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.SendReceiveByteArrayInt32">
+            <summary>设置 MqttClient.SendReceive(Byte[] msgBytes, Int32 timeout) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.SubscribeStringArrayByteArray">
+            <summary>设置 MqttClient.Subscribe(String[] topics, Byte[] qosLevels) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttClient.AllInstances.UnsubscribeStringArray">
+            <summary>设置 MqttClient.Unsubscribe(String[] topics) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel">
+            <summary>uPLibrary.Networking.M2Mqtt.MqttNetworkChannel 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.#ctor(uPLibrary.Networking.M2Mqtt.MqttNetworkChannel)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.Bind(uPLibrary.Networking.M2Mqtt.IMqttNetworkChannel)">
+            <summary>将接口的成员绑定到此填充码。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.Close">
+            <summary>设置 MqttNetworkChannel.Close() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.Connect">
+            <summary>设置 MqttNetworkChannel.Connect() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.ConstructorStringIPAddressInt32">
+            <summary>设置 MqttNetworkChannel.MqttNetworkChannel(String remoteHostName, IPAddress remoteIpAddress, Int32 remotePort) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.ConstructorStringIPAddressInt32BooleanX509Certificate">
+            <summary>设置 MqttNetworkChannel.MqttNetworkChannel(String remoteHostName, IPAddress remoteIpAddress, Int32 remotePort, Boolean secure, X509Certificate caCert) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.DataAvailableGet">
+            <summary>设置 MqttNetworkChannel.get_DataAvailable() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.ReceiveByteArray">
+            <summary>设置 MqttNetworkChannel.Receive(Byte[] buffer) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.RemoteHostNameGet">
+            <summary>设置 MqttNetworkChannel.get_RemoteHostName() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.RemoteIpAddressGet">
+            <summary>设置 MqttNetworkChannel.get_RemoteIpAddress() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.RemotePortGet">
+            <summary>设置 MqttNetworkChannel.get_RemotePort() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.SendByteArray">
+            <summary>设置 MqttNetworkChannel.Send(Byte[] buffer) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.Close">
+            <summary>设置 MqttNetworkChannel.Close() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.Connect">
+            <summary>设置 MqttNetworkChannel.Connect() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.DataAvailableGet">
+            <summary>设置 MqttNetworkChannel.get_DataAvailable() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.ReceiveByteArray">
+            <summary>设置 MqttNetworkChannel.Receive(Byte[] buffer) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.RemoteHostNameGet">
+            <summary>设置 MqttNetworkChannel.get_RemoteHostName() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.RemoteIpAddressGet">
+            <summary>设置 MqttNetworkChannel.get_RemoteIpAddress() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.RemotePortGet">
+            <summary>设置 MqttNetworkChannel.get_RemotePort() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttNetworkChannel.AllInstances.SendByteArray">
+            <summary>设置 MqttNetworkChannel.Send(Byte[] buffer) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings">
+            <summary>uPLibrary.Networking.M2Mqtt.MqttSettings 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.#ctor(uPLibrary.Networking.M2Mqtt.MqttSettings)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AttemptsOnRetryGet">
+            <summary>设置 MqttSettings.get_AttemptsOnRetry() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AttemptsOnRetrySetInt32">
+            <summary>设置 MqttSettings.set_AttemptsOnRetry(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.Constructor">
+            <summary>设置 MqttSettings.MqttSettings() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.DelayOnRetryGet">
+            <summary>设置 MqttSettings.get_DelayOnRetry() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.DelayOnRetrySetInt32">
+            <summary>设置 MqttSettings.set_DelayOnRetry(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.InstanceGet">
+            <summary>设置 MqttSettings.get_Instance() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.PortGet">
+            <summary>设置 MqttSettings.get_Port() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.PortSetInt32">
+            <summary>设置 MqttSettings.set_Port(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.SslPortGet">
+            <summary>设置 MqttSettings.get_SslPort() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.SslPortSetInt32">
+            <summary>设置 MqttSettings.set_SslPort(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.TimeoutOnConnectionGet">
+            <summary>设置 MqttSettings.get_TimeoutOnConnection() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.TimeoutOnConnectionSetInt32">
+            <summary>设置 MqttSettings.set_TimeoutOnConnection(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.TimeoutOnReceivingGet">
+            <summary>设置 MqttSettings.get_TimeoutOnReceiving() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.TimeoutOnReceivingSetInt32">
+            <summary>设置 MqttSettings.set_TimeoutOnReceiving(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.AttemptsOnRetryGet">
+            <summary>设置 MqttSettings.get_AttemptsOnRetry() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.AttemptsOnRetrySetInt32">
+            <summary>设置 MqttSettings.set_AttemptsOnRetry(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.DelayOnRetryGet">
+            <summary>设置 MqttSettings.get_DelayOnRetry() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.DelayOnRetrySetInt32">
+            <summary>设置 MqttSettings.set_DelayOnRetry(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.PortGet">
+            <summary>设置 MqttSettings.get_Port() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.PortSetInt32">
+            <summary>设置 MqttSettings.set_Port(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.SslPortGet">
+            <summary>设置 MqttSettings.get_SslPort() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.SslPortSetInt32">
+            <summary>设置 MqttSettings.set_SslPort(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.TimeoutOnConnectionGet">
+            <summary>设置 MqttSettings.get_TimeoutOnConnection() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.TimeoutOnConnectionSetInt32">
+            <summary>设置 MqttSettings.set_TimeoutOnConnection(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.TimeoutOnReceivingGet">
+            <summary>设置 MqttSettings.get_TimeoutOnReceiving() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.ShimMqttSettings.AllInstances.TimeoutOnReceivingSetInt32">
+            <summary>设置 MqttSettings.set_TimeoutOnReceiving(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel">
+            <summary>uPLibrary.Networking.M2Mqtt.IMqttNetworkChannel 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.#ctor">
+            <summary>初始化 type StubIMqttNetworkChannel 的新实例</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.Close">
+            <summary>设置 IMqttNetworkChannel.Close() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.Connect">
+            <summary>设置 IMqttNetworkChannel.Connect() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.DataAvailableGet">
+            <summary>设置 IMqttNetworkChannel.get_DataAvailable() 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.ReceiveByteArray">
+            <summary>设置 IMqttNetworkChannel.Receive(Byte[] buffer) 的 stub</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.SendByteArray">
+            <summary>设置 IMqttNetworkChannel.Send(Byte[] buffer) 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.m2m::uPLibrary#Networking#M2Mqtt#IMqttNetworkChannel#Close">
+            <summary>设置 IMqttNetworkChannel.Close() 的 存根</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.m2m::uPLibrary#Networking#M2Mqtt#IMqttNetworkChannel#Connect">
+            <summary>设置 IMqttNetworkChannel.Connect() 的 存根</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.m2m::uPLibrary#Networking#M2Mqtt#IMqttNetworkChannel#Receive(System.Byte[])">
+            <summary>设置 IMqttNetworkChannel.Receive(Byte[] buffer) 的 存根</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.m2m::uPLibrary#Networking#M2Mqtt#IMqttNetworkChannel#Send(System.Byte[])">
+            <summary>设置 IMqttNetworkChannel.Send(Byte[] buffer) 的 存根</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubIMqttNetworkChannel.m2m::uPLibrary#Networking#M2Mqtt#IMqttNetworkChannel#DataAvailable">
+            <summary>设置 IMqttNetworkChannel.get_DataAvailable() 的 stub</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient">
+            <summary>uPLibrary.Networking.M2Mqtt.MqttClient 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.#ctor(System.Net.IPAddress)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.#ctor(System.String)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.#ctor(System.Net.IPAddress,System.Int32,System.Boolean,System.Security.Cryptography.X509Certificates.X509Certificate)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.#ctor(System.String,System.Int32,System.Boolean,System.Security.Cryptography.X509Certificates.X509Certificate)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.InitializeStub">
+            <summary>初始化 type StubMqttClient 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttClient.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel">
+            <summary>uPLibrary.Networking.M2Mqtt.MqttNetworkChannel 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel.#ctor(System.String,System.Net.IPAddress,System.Int32)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel.#ctor(System.String,System.Net.IPAddress,System.Int32,System.Boolean,System.Security.Cryptography.X509Certificates.X509Certificate)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel.InitializeStub">
+            <summary>初始化 type StubMqttNetworkChannel 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Fakes.StubMqttNetworkChannel.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgBase 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgBase)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.Constructor">
+            <summary>设置 MqttMsgBase.MqttMsgBase() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.DupFlagGet">
+            <summary>设置 MqttMsgBase.get_DupFlag() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.DupFlagSetBoolean">
+            <summary>设置 MqttMsgBase.set_DupFlag(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.QosLevelGet">
+            <summary>设置 MqttMsgBase.get_QosLevel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.QosLevelSetByte">
+            <summary>设置 MqttMsgBase.set_QosLevel(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.RetainGet">
+            <summary>设置 MqttMsgBase.get_Retain() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.RetainSetBoolean">
+            <summary>设置 MqttMsgBase.set_Retain(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.TypeGet">
+            <summary>设置 MqttMsgBase.get_Type() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.TypeSetByte">
+            <summary>设置 MqttMsgBase.set_Type(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.decodeRemainingLengthIMqttNetworkChannel">
+            <summary>设置 MqttMsgBase.decodeRemainingLength(IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.encodeRemainingLengthInt32ByteArrayInt32">
+            <summary>设置 MqttMsgBase.encodeRemainingLength(Int32 remainingLength, Byte[] buffer, Int32 index) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.DupFlagGet">
+            <summary>设置 MqttMsgBase.get_DupFlag() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.DupFlagSetBoolean">
+            <summary>设置 MqttMsgBase.set_DupFlag(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.QosLevelGet">
+            <summary>设置 MqttMsgBase.get_QosLevel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.QosLevelSetByte">
+            <summary>设置 MqttMsgBase.set_QosLevel(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.RetainGet">
+            <summary>设置 MqttMsgBase.get_Retain() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.RetainSetBoolean">
+            <summary>设置 MqttMsgBase.set_Retain(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.TypeGet">
+            <summary>设置 MqttMsgBase.get_Type() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.TypeSetByte">
+            <summary>设置 MqttMsgBase.set_Type(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgBase.AllInstances.encodeRemainingLengthInt32ByteArrayInt32">
+            <summary>设置 MqttMsgBase.encodeRemainingLength(Int32 remainingLength, Byte[] buffer, Int32 index) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgConnack 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgConnack)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.Constructor">
+            <summary>设置 MqttMsgConnack.MqttMsgConnack() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.GetBytes">
+            <summary>设置 MqttMsgConnack.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgConnack.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.ReturnCodeGet">
+            <summary>设置 MqttMsgConnack.get_ReturnCode() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.ReturnCodeSetByte">
+            <summary>设置 MqttMsgConnack.set_ReturnCode(Byte value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.AllInstances.GetBytes">
+            <summary>设置 MqttMsgConnack.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.AllInstances.ReturnCodeGet">
+            <summary>设置 MqttMsgConnack.get_ReturnCode() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnack.AllInstances.ReturnCodeSetByte">
+            <summary>设置 MqttMsgConnack.set_ReturnCode(Byte value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgConnect 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgConnect)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.CleanSessionGet">
+            <summary>设置 MqttMsgConnect.get_CleanSession() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.CleanSessionSetBoolean">
+            <summary>设置 MqttMsgConnect.set_CleanSession(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ClientIdGet">
+            <summary>设置 MqttMsgConnect.get_ClientId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ClientIdSetString">
+            <summary>设置 MqttMsgConnect.set_ClientId(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.Constructor">
+            <summary>设置 MqttMsgConnect.MqttMsgConnect() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ConstructorString">
+            <summary>设置 MqttMsgConnect.MqttMsgConnect(String clientId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ConstructorStringStringStringBooleanByteBooleanStringStringBooleanUInt16">
+            <summary>设置 MqttMsgConnect.MqttMsgConnect(String clientId, String username, String password, Boolean willRetain, Byte willQosLevel, Boolean willFlag, String willTopic, String willMessage, Boolean cleanSession, UInt16 keepAlivePeriod) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.GetBytes">
+            <summary>设置 MqttMsgConnect.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.KeepAlivePeriodGet">
+            <summary>设置 MqttMsgConnect.get_KeepAlivePeriod() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.KeepAlivePeriodSetUInt16">
+            <summary>设置 MqttMsgConnect.set_KeepAlivePeriod(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgConnect.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.PasswordGet">
+            <summary>设置 MqttMsgConnect.get_Password() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.PasswordSetString">
+            <summary>设置 MqttMsgConnect.set_Password(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ProtocolNameGet">
+            <summary>设置 MqttMsgConnect.get_ProtocolName() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ProtocolNameSetString">
+            <summary>设置 MqttMsgConnect.set_ProtocolName(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ProtocolVersionGet">
+            <summary>设置 MqttMsgConnect.get_ProtocolVersion() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.ProtocolVersionSetByte">
+            <summary>设置 MqttMsgConnect.set_ProtocolVersion(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.UsernameGet">
+            <summary>设置 MqttMsgConnect.get_Username() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.UsernameSetString">
+            <summary>设置 MqttMsgConnect.set_Username(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillFlagGet">
+            <summary>设置 MqttMsgConnect.get_WillFlag() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillFlagSetBoolean">
+            <summary>设置 MqttMsgConnect.set_WillFlag(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillMessageGet">
+            <summary>设置 MqttMsgConnect.get_WillMessage() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillMessageSetString">
+            <summary>设置 MqttMsgConnect.set_WillMessage(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillQosLevelGet">
+            <summary>设置 MqttMsgConnect.get_WillQosLevel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillQosLevelSetByte">
+            <summary>设置 MqttMsgConnect.set_WillQosLevel(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillRetainGet">
+            <summary>设置 MqttMsgConnect.get_WillRetain() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillRetainSetBoolean">
+            <summary>设置 MqttMsgConnect.set_WillRetain(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillTopicGet">
+            <summary>设置 MqttMsgConnect.get_WillTopic() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.WillTopicSetString">
+            <summary>设置 MqttMsgConnect.set_WillTopic(String value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.CleanSessionGet">
+            <summary>设置 MqttMsgConnect.get_CleanSession() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.CleanSessionSetBoolean">
+            <summary>设置 MqttMsgConnect.set_CleanSession(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.ClientIdGet">
+            <summary>设置 MqttMsgConnect.get_ClientId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.ClientIdSetString">
+            <summary>设置 MqttMsgConnect.set_ClientId(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.GetBytes">
+            <summary>设置 MqttMsgConnect.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.KeepAlivePeriodGet">
+            <summary>设置 MqttMsgConnect.get_KeepAlivePeriod() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.KeepAlivePeriodSetUInt16">
+            <summary>设置 MqttMsgConnect.set_KeepAlivePeriod(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.PasswordGet">
+            <summary>设置 MqttMsgConnect.get_Password() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.PasswordSetString">
+            <summary>设置 MqttMsgConnect.set_Password(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.ProtocolNameGet">
+            <summary>设置 MqttMsgConnect.get_ProtocolName() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.ProtocolNameSetString">
+            <summary>设置 MqttMsgConnect.set_ProtocolName(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.ProtocolVersionGet">
+            <summary>设置 MqttMsgConnect.get_ProtocolVersion() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.ProtocolVersionSetByte">
+            <summary>设置 MqttMsgConnect.set_ProtocolVersion(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.UsernameGet">
+            <summary>设置 MqttMsgConnect.get_Username() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.UsernameSetString">
+            <summary>设置 MqttMsgConnect.set_Username(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillFlagGet">
+            <summary>设置 MqttMsgConnect.get_WillFlag() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillFlagSetBoolean">
+            <summary>设置 MqttMsgConnect.set_WillFlag(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillMessageGet">
+            <summary>设置 MqttMsgConnect.get_WillMessage() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillMessageSetString">
+            <summary>设置 MqttMsgConnect.set_WillMessage(String value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillQosLevelGet">
+            <summary>设置 MqttMsgConnect.get_WillQosLevel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillQosLevelSetByte">
+            <summary>设置 MqttMsgConnect.set_WillQosLevel(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillRetainGet">
+            <summary>设置 MqttMsgConnect.get_WillRetain() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillRetainSetBoolean">
+            <summary>设置 MqttMsgConnect.set_WillRetain(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillTopicGet">
+            <summary>设置 MqttMsgConnect.get_WillTopic() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgConnect.AllInstances.WillTopicSetString">
+            <summary>设置 MqttMsgConnect.set_WillTopic(String value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgContext 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgContext)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AttemptGet">
+            <summary>设置 MqttMsgContext.get_Attempt() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AttemptSetInt32">
+            <summary>设置 MqttMsgContext.set_Attempt(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.Constructor">
+            <summary>设置 MqttMsgContext.MqttMsgContext() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.FlowGet">
+            <summary>设置 MqttMsgContext.get_Flow() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.FlowSetMqttMsgFlow">
+            <summary>设置 MqttMsgContext.set_Flow(MqttMsgFlow value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.MessageGet">
+            <summary>设置 MqttMsgContext.get_Message() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.MessageSetMqttMsgBase">
+            <summary>设置 MqttMsgContext.set_Message(MqttMsgBase value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.StateGet">
+            <summary>设置 MqttMsgContext.get_State() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.StateSetMqttMsgState">
+            <summary>设置 MqttMsgContext.set_State(MqttMsgState value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.TimestampGet">
+            <summary>设置 MqttMsgContext.get_Timestamp() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.TimestampSetInt32">
+            <summary>设置 MqttMsgContext.set_Timestamp(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.AttemptGet">
+            <summary>设置 MqttMsgContext.get_Attempt() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.AttemptSetInt32">
+            <summary>设置 MqttMsgContext.set_Attempt(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.FlowGet">
+            <summary>设置 MqttMsgContext.get_Flow() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.FlowSetMqttMsgFlow">
+            <summary>设置 MqttMsgContext.set_Flow(MqttMsgFlow value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.MessageGet">
+            <summary>设置 MqttMsgContext.get_Message() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.MessageSetMqttMsgBase">
+            <summary>设置 MqttMsgContext.set_Message(MqttMsgBase value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.StateGet">
+            <summary>设置 MqttMsgContext.get_State() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.StateSetMqttMsgState">
+            <summary>设置 MqttMsgContext.set_State(MqttMsgState value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.TimestampGet">
+            <summary>设置 MqttMsgContext.get_Timestamp() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgContext.AllInstances.TimestampSetInt32">
+            <summary>设置 MqttMsgContext.set_Timestamp(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgDisconnect 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgDisconnect)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.Constructor">
+            <summary>设置 MqttMsgDisconnect.MqttMsgDisconnect() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.GetBytes">
+            <summary>设置 MqttMsgDisconnect.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgDisconnect.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgDisconnect.AllInstances.GetBytes">
+            <summary>设置 MqttMsgDisconnect.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPingReq 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPingReq)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.Constructor">
+            <summary>设置 MqttMsgPingReq.MqttMsgPingReq() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.GetBytes">
+            <summary>设置 MqttMsgPingReq.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPingReq.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingReq.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPingReq.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPingResp 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPingResp)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.Constructor">
+            <summary>设置 MqttMsgPingResp.MqttMsgPingResp() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.GetBytes">
+            <summary>设置 MqttMsgPingResp.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPingResp.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPingResp.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPingResp.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPuback 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPuback)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.Constructor">
+            <summary>设置 MqttMsgPuback.MqttMsgPuback() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.GetBytes">
+            <summary>设置 MqttMsgPuback.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.MessageIdGet">
+            <summary>设置 MqttMsgPuback.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPuback.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPuback.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPuback.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgPuback.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPuback.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPuback.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubcomp 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubcomp)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.Constructor">
+            <summary>设置 MqttMsgPubcomp.MqttMsgPubcomp() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.GetBytes">
+            <summary>设置 MqttMsgPubcomp.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.MessageIdGet">
+            <summary>设置 MqttMsgPubcomp.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPubcomp.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPubcomp.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPubcomp.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgPubcomp.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubcomp.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPubcomp.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublish 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublish)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.Constructor">
+            <summary>设置 MqttMsgPublish.MqttMsgPublish() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.ConstructorStringByteArray">
+            <summary>设置 MqttMsgPublish.MqttMsgPublish(String topic, Byte[] message) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.ConstructorStringByteArrayBooleanByteBoolean">
+            <summary>设置 MqttMsgPublish.MqttMsgPublish(String topic, Byte[] message, Boolean dupFlag, Byte qosLevel, Boolean retain) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.GetBytes">
+            <summary>设置 MqttMsgPublish.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.MessageGet">
+            <summary>设置 MqttMsgPublish.get_Message() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.MessageIdGet">
+            <summary>设置 MqttMsgPublish.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPublish.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.MessageSetByteArray">
+            <summary>设置 MqttMsgPublish.set_Message(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPublish.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.TopicGet">
+            <summary>设置 MqttMsgPublish.get_Topic() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.TopicSetString">
+            <summary>设置 MqttMsgPublish.set_Topic(String value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPublish.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.MessageGet">
+            <summary>设置 MqttMsgPublish.get_Message() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgPublish.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPublish.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.MessageSetByteArray">
+            <summary>设置 MqttMsgPublish.set_Message(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.TopicGet">
+            <summary>设置 MqttMsgPublish.get_Topic() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublish.AllInstances.TopicSetString">
+            <summary>设置 MqttMsgPublish.set_Topic(String value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublishEventArgs 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublishEventArgs)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.ConstructorStringByteArrayByteBoolean">
+            <summary>设置 MqttMsgPublishEventArgs.MqttMsgPublishEventArgs(String topic, Byte[] message, Byte qosLevel, Boolean retain) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.MessageGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_Message() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.MessageSetByteArray">
+            <summary>设置 MqttMsgPublishEventArgs.set_Message(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.QosLevelGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_QosLevel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.QosLevelSetByte">
+            <summary>设置 MqttMsgPublishEventArgs.set_QosLevel(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.RetainGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_Retain() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.RetainSetBoolean">
+            <summary>设置 MqttMsgPublishEventArgs.set_Retain(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.TopicGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_Topic() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.TopicSetString">
+            <summary>设置 MqttMsgPublishEventArgs.set_Topic(String value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.MessageGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_Message() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.MessageSetByteArray">
+            <summary>设置 MqttMsgPublishEventArgs.set_Message(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.QosLevelGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_QosLevel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.QosLevelSetByte">
+            <summary>设置 MqttMsgPublishEventArgs.set_QosLevel(Byte value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.RetainGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_Retain() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.RetainSetBoolean">
+            <summary>设置 MqttMsgPublishEventArgs.set_Retain(Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.TopicGet">
+            <summary>设置 MqttMsgPublishEventArgs.get_Topic() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishEventArgs.AllInstances.TopicSetString">
+            <summary>设置 MqttMsgPublishEventArgs.set_Topic(String value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublishedEventArgs 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublishedEventArgs)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.ConstructorUInt16">
+            <summary>设置 MqttMsgPublishedEventArgs.MqttMsgPublishedEventArgs(UInt16 messageId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.MessageIdGet">
+            <summary>设置 MqttMsgPublishedEventArgs.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPublishedEventArgs.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgPublishedEventArgs.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPublishedEventArgs.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPublishedEventArgs.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubrec 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubrec)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.Constructor">
+            <summary>设置 MqttMsgPubrec.MqttMsgPubrec() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.GetBytes">
+            <summary>设置 MqttMsgPubrec.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.MessageIdGet">
+            <summary>设置 MqttMsgPubrec.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPubrec.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPubrec.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPubrec.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgPubrec.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrec.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPubrec.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubrel 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubrel)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.Constructor">
+            <summary>设置 MqttMsgPubrel.MqttMsgPubrel() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.GetBytes">
+            <summary>设置 MqttMsgPubrel.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.MessageIdGet">
+            <summary>设置 MqttMsgPubrel.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPubrel.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgPubrel.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.AllInstances.GetBytes">
+            <summary>设置 MqttMsgPubrel.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgPubrel.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgPubrel.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgPubrel.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSuback 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSuback)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.Constructor">
+            <summary>设置 MqttMsgSuback.MqttMsgSuback() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.GetBytes">
+            <summary>设置 MqttMsgSuback.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.GrantedQoSLevelsGet">
+            <summary>设置 MqttMsgSuback.get_GrantedQoSLevels() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.GrantedQoSLevelsSetByteArray">
+            <summary>设置 MqttMsgSuback.set_GrantedQoSLevels(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.MessageIdGet">
+            <summary>设置 MqttMsgSuback.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.MessageIdSetUInt16">
+            <summary>设置 MqttMsgSuback.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgSuback.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.AllInstances.GetBytes">
+            <summary>设置 MqttMsgSuback.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.AllInstances.GrantedQoSLevelsGet">
+            <summary>设置 MqttMsgSuback.get_GrantedQoSLevels() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.AllInstances.GrantedQoSLevelsSetByteArray">
+            <summary>设置 MqttMsgSuback.set_GrantedQoSLevels(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgSuback.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSuback.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgSuback.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSubscribe 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSubscribe)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.Constructor">
+            <summary>设置 MqttMsgSubscribe.MqttMsgSubscribe() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.ConstructorStringArrayByteArray">
+            <summary>设置 MqttMsgSubscribe.MqttMsgSubscribe(String[] topics, Byte[] qosLevels) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.GetBytes">
+            <summary>设置 MqttMsgSubscribe.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.MessageIdGet">
+            <summary>设置 MqttMsgSubscribe.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.MessageIdSetUInt16">
+            <summary>设置 MqttMsgSubscribe.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgSubscribe.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.QoSLevelsGet">
+            <summary>设置 MqttMsgSubscribe.get_QoSLevels() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.QoSLevelsSetByteArray">
+            <summary>设置 MqttMsgSubscribe.set_QoSLevels(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.TopicsGet">
+            <summary>设置 MqttMsgSubscribe.get_Topics() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.TopicsSetStringArray">
+            <summary>设置 MqttMsgSubscribe.set_Topics(String[] value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.GetBytes">
+            <summary>设置 MqttMsgSubscribe.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgSubscribe.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgSubscribe.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.QoSLevelsGet">
+            <summary>设置 MqttMsgSubscribe.get_QoSLevels() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.QoSLevelsSetByteArray">
+            <summary>设置 MqttMsgSubscribe.set_QoSLevels(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.TopicsGet">
+            <summary>设置 MqttMsgSubscribe.get_Topics() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribe.AllInstances.TopicsSetStringArray">
+            <summary>设置 MqttMsgSubscribe.set_Topics(String[] value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSubscribedEventArgs 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSubscribedEventArgs)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.ConstructorUInt16ByteArray">
+            <summary>设置 MqttMsgSubscribedEventArgs.MqttMsgSubscribedEventArgs(UInt16 messageId, Byte[] grantedQosLevels) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.GrantedQoSLevelsGet">
+            <summary>设置 MqttMsgSubscribedEventArgs.get_GrantedQoSLevels() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.GrantedQoSLevelsSetByteArray">
+            <summary>设置 MqttMsgSubscribedEventArgs.set_GrantedQoSLevels(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.MessageIdGet">
+            <summary>设置 MqttMsgSubscribedEventArgs.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.MessageIdSetUInt16">
+            <summary>设置 MqttMsgSubscribedEventArgs.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.AllInstances.GrantedQoSLevelsGet">
+            <summary>设置 MqttMsgSubscribedEventArgs.get_GrantedQoSLevels() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.AllInstances.GrantedQoSLevelsSetByteArray">
+            <summary>设置 MqttMsgSubscribedEventArgs.set_GrantedQoSLevels(Byte[] value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgSubscribedEventArgs.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgSubscribedEventArgs.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgSubscribedEventArgs.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsuback 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsuback)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.Constructor">
+            <summary>设置 MqttMsgUnsuback.MqttMsgUnsuback() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.GetBytes">
+            <summary>设置 MqttMsgUnsuback.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.MessageIdGet">
+            <summary>设置 MqttMsgUnsuback.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.MessageIdSetUInt16">
+            <summary>设置 MqttMsgUnsuback.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgUnsuback.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.AllInstances.GetBytes">
+            <summary>设置 MqttMsgUnsuback.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgUnsuback.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsuback.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgUnsuback.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsubscribe 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsubscribe)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.Constructor">
+            <summary>设置 MqttMsgUnsubscribe.MqttMsgUnsubscribe() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.ConstructorStringArray">
+            <summary>设置 MqttMsgUnsubscribe.MqttMsgUnsubscribe(String[] topics) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.GetBytes">
+            <summary>设置 MqttMsgUnsubscribe.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.MessageIdGet">
+            <summary>设置 MqttMsgUnsubscribe.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.MessageIdSetUInt16">
+            <summary>设置 MqttMsgUnsubscribe.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.ParseByteIMqttNetworkChannel">
+            <summary>设置 MqttMsgUnsubscribe.Parse(Byte fixedHeaderFirstByte, IMqttNetworkChannel channel) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.TopicsGet">
+            <summary>设置 MqttMsgUnsubscribe.get_Topics() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.TopicsSetStringArray">
+            <summary>设置 MqttMsgUnsubscribe.set_Topics(String[] value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.AllInstances.GetBytes">
+            <summary>设置 MqttMsgUnsubscribe.GetBytes() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgUnsubscribe.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgUnsubscribe.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.AllInstances.TopicsGet">
+            <summary>设置 MqttMsgUnsubscribe.get_Topics() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribe.AllInstances.TopicsSetStringArray">
+            <summary>设置 MqttMsgUnsubscribe.set_Topics(String[] value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsubscribedEventArgs 的填充码类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.#ctor(uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsubscribedEventArgs)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.ConstructorUInt16">
+            <summary>设置 MqttMsgUnsubscribedEventArgs.MqttMsgUnsubscribedEventArgs(UInt16 messageId) 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.MessageIdGet">
+            <summary>设置 MqttMsgUnsubscribedEventArgs.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.MessageIdSetUInt16">
+            <summary>设置 MqttMsgUnsubscribedEventArgs.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.AllInstances.MessageIdGet">
+            <summary>设置 MqttMsgUnsubscribedEventArgs.get_MessageId() 的 填充码</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.ShimMqttMsgUnsubscribedEventArgs.AllInstances.MessageIdSetUInt16">
+            <summary>设置 MqttMsgUnsubscribedEventArgs.set_MessageId(UInt16 value) 的 填充码</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgBase 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.GetBytes">
+            <summary>设置 MqttMsgBase.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.GetBytes01">
+            <summary>设置 MqttMsgBase.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.InitializeStub">
+            <summary>初始化 type StubMqttMsgBase 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgBase.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgConnack 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.GetBytes">
+            <summary>设置 MqttMsgConnack.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.GetBytes01">
+            <summary>设置 MqttMsgConnack.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.InitializeStub">
+            <summary>初始化 type StubMqttMsgConnack 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnack.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgConnect 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.#ctor(System.String)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.#ctor(System.String,System.String,System.String,System.Boolean,System.Byte,System.Boolean,System.String,System.String,System.Boolean,System.UInt16)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.GetBytes">
+            <summary>设置 MqttMsgConnect.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.GetBytes01">
+            <summary>设置 MqttMsgConnect.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.InitializeStub">
+            <summary>初始化 type StubMqttMsgConnect 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgConnect.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgContext">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgContext 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgContext.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgContext.InitializeStub">
+            <summary>初始化 type StubMqttMsgContext 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgContext.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgContext.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgContext.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgDisconnect 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.GetBytes">
+            <summary>设置 MqttMsgDisconnect.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.GetBytes01">
+            <summary>设置 MqttMsgDisconnect.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.InitializeStub">
+            <summary>初始化 type StubMqttMsgDisconnect 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgDisconnect.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPingReq 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.GetBytes">
+            <summary>设置 MqttMsgPingReq.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.GetBytes01">
+            <summary>设置 MqttMsgPingReq.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.InitializeStub">
+            <summary>初始化 type StubMqttMsgPingReq 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingReq.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPingResp 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.GetBytes">
+            <summary>设置 MqttMsgPingResp.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.GetBytes01">
+            <summary>设置 MqttMsgPingResp.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.InitializeStub">
+            <summary>初始化 type StubMqttMsgPingResp 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPingResp.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPuback 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.GetBytes">
+            <summary>设置 MqttMsgPuback.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.GetBytes01">
+            <summary>设置 MqttMsgPuback.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.InitializeStub">
+            <summary>初始化 type StubMqttMsgPuback 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPuback.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubcomp 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.GetBytes">
+            <summary>设置 MqttMsgPubcomp.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.GetBytes01">
+            <summary>设置 MqttMsgPubcomp.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.InitializeStub">
+            <summary>初始化 type StubMqttMsgPubcomp 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubcomp.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublish 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.#ctor(System.String,System.Byte[])">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.#ctor(System.String,System.Byte[],System.Boolean,System.Byte,System.Boolean)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.GetBytes">
+            <summary>设置 MqttMsgPublish.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.GetBytes01">
+            <summary>设置 MqttMsgPublish.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.InitializeStub">
+            <summary>初始化 type StubMqttMsgPublish 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublish.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublishEventArgs 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishEventArgs.#ctor(System.String,System.Byte[],System.Byte,System.Boolean)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishEventArgs.InitializeStub">
+            <summary>初始化 type StubMqttMsgPublishEventArgs 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishEventArgs.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishEventArgs.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishEventArgs.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishedEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPublishedEventArgs 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishedEventArgs.#ctor(System.UInt16)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishedEventArgs.InitializeStub">
+            <summary>初始化 type StubMqttMsgPublishedEventArgs 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishedEventArgs.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishedEventArgs.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPublishedEventArgs.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubrec 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.GetBytes">
+            <summary>设置 MqttMsgPubrec.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.GetBytes01">
+            <summary>设置 MqttMsgPubrec.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.InitializeStub">
+            <summary>初始化 type StubMqttMsgPubrec 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrec.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgPubrel 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.GetBytes">
+            <summary>设置 MqttMsgPubrel.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.GetBytes01">
+            <summary>设置 MqttMsgPubrel.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.InitializeStub">
+            <summary>初始化 type StubMqttMsgPubrel 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgPubrel.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSuback 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.GetBytes">
+            <summary>设置 MqttMsgSuback.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.GetBytes01">
+            <summary>设置 MqttMsgSuback.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.InitializeStub">
+            <summary>初始化 type StubMqttMsgSuback 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSuback.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSubscribe 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.#ctor(System.String[],System.Byte[])">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.GetBytes">
+            <summary>设置 MqttMsgSubscribe.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.GetBytes01">
+            <summary>设置 MqttMsgSubscribe.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.InitializeStub">
+            <summary>初始化 type StubMqttMsgSubscribe 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribe.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribedEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgSubscribedEventArgs 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribedEventArgs.#ctor(System.UInt16,System.Byte[])">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribedEventArgs.InitializeStub">
+            <summary>初始化 type StubMqttMsgSubscribedEventArgs 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribedEventArgs.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribedEventArgs.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgSubscribedEventArgs.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsuback 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.GetBytes">
+            <summary>设置 MqttMsgUnsuback.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.GetBytes01">
+            <summary>设置 MqttMsgUnsuback.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.InitializeStub">
+            <summary>初始化 type StubMqttMsgUnsuback 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsuback.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsubscribe 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.#ctor(System.String[])">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.GetBytes">
+            <summary>设置 MqttMsgUnsubscribe.GetBytes() 的 存根</summary>
+        </member>
+        <member name="F:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.GetBytes01">
+            <summary>设置 MqttMsgUnsubscribe.GetBytes() 的 stub</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.InitializeStub">
+            <summary>初始化 type StubMqttMsgUnsubscribe 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribe.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribedEventArgs">
+            <summary>uPLibrary.Networking.M2Mqtt.Messages.MqttMsgUnsubscribedEventArgs 的存根类型</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribedEventArgs.#ctor(System.UInt16)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribedEventArgs.InitializeStub">
+            <summary>初始化 type StubMqttMsgUnsubscribedEventArgs 的新实例</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribedEventArgs.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribedEventArgs.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:uPLibrary.Networking.M2Mqtt.Messages.Fakes.StubMqttMsgUnsubscribedEventArgs.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+    </members>
+</doc>
